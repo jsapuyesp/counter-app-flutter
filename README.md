@@ -1,6 +1,8 @@
 # counter_app_flutter
 
-A new Flutter project.
+Proyecto realizado con la guía del docente Fernando Herrera en el curso de [FLutter](https://www.udemy.com/share/101XBm3@kLu-CIVbLN6bavUQTYxkvMGJSRBRI9obSORIOB7_yVLqsQON26ApP-iGUtfsREMx8Q==/) dictado en la plataforma Udemy.
+
+Este código pertenece a la sección 5 del curso
 
 ## Getting Started
 
